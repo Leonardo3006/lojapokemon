@@ -1,0 +1,10 @@
+.banner {
+  background: linear-gradient(to right, #ef5350, #ffca28);
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.banner h2 {
+  font-size: 40px;
+}

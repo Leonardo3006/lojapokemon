@@ -1,0 +1,20 @@
+.header {
+  background-color: #ef5350;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}

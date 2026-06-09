@@ -1,0 +1,22 @@
+.card {
+  width: 250px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  background: white;
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+}
+
+.card button {
+  background-color: #ef5350;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}

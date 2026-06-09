@@ -1,0 +1,48 @@
+.carrinho {
+    min-height: 70vh;
+    padding: 40px;
+}
+.carrinho {
+  padding: 40px;
+}
+
+.itemCarrinho {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 1px solid #ddd;
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.itemCarrinho img {
+  width: 100px;
+}
+.totalCarrinho {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 2px solid #ccc;
+  text-align: right;
+  font-size: 24px;
+  font-weight: bold;
+}
+.btnRemover {
+  margin-top: 10px;
+  background-color: #d32f2f;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btnRemover:hover {
+  background-color: #b71c1c;
+}
+.infoProduto {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
